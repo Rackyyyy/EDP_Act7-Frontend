@@ -1,0 +1,15 @@
+# Ignore Visual Studio settings and build files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.log
+*.tmp
+*.cache
+*.db
+*.pdb
+*.ncb
+*.opendb
+*.VC.db
+
